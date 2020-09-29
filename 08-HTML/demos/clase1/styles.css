@@ -1,0 +1,18 @@
+h1 {
+    color:  blue;
+}
+
+img {
+    width: 400px;
+}
+#thirdDiv{
+    height: 625px;
+    width: 600px;;
+  background-color: coral;
+  padding: 50px;
+  border: 10px solid blue;
+}
+#spanid{
+    font-size: 18px;
+    margin:  50px;;
+}
